@@ -1,0 +1,26 @@
+{
+  "name": "electron-rpg",
+  "version": "1.0.0",
+  "description": "An RPG application built in Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clatrobe00/electron-rpg.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "Charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clatrobe00/electron-rpg/issues"
+  },
+  "homepage": "https://github.com/Clatrobe00/electron-rpg#readme",
+  "dependencies": {
+    "create-electron-app": "^1.0.0",
+    "electron": "^11.2.0"
+  }
+}
